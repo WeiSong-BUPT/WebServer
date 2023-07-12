@@ -1,0 +1,14 @@
+/home/song/myWebServer/build/CMakeFiles/rebuild_cache.dir
+/home/song/myWebServer/build/CMakeFiles/edit_cache.dir
+/home/song/myWebServer/build/CMakeFiles/clang-tidy.dir
+/home/song/myWebServer/build/CMakeFiles/cpplint.dir
+/home/song/myWebServer/build/CMakeFiles/check-format.dir
+/home/song/myWebServer/build/CMakeFiles/format.dir
+/home/song/myWebServer/build/src/CMakeFiles/rebuild_cache.dir
+/home/song/myWebServer/build/src/CMakeFiles/edit_cache.dir
+/home/song/myWebServer/build/src/CMakeFiles/pine_shared.dir
+/home/song/myWebServer/build/test/CMakeFiles/rebuild_cache.dir
+/home/song/myWebServer/build/test/CMakeFiles/edit_cache.dir
+/home/song/myWebServer/build/test/CMakeFiles/check-tests.dir
+/home/song/myWebServer/build/test/CMakeFiles/server.dir
+/home/song/myWebServer/build/test/CMakeFiles/build-tests.dir

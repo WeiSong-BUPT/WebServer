@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/song/myWebServer/src/include/EventLoop.h
+functional
+-
+
+/home/song/myWebServer/src/include/Server.h
+map
+-
+vector
+-
+
+/home/song/myWebServer/test/server.cpp
+../src/include/EventLoop.h
+/home/song/myWebServer/src/include/EventLoop.h
+../src/include/Server.h
+/home/song/myWebServer/src/include/Server.h
+
